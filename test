@@ -1,4 +1,4 @@
-<!-- これはテストです -->
+<!-- 書き換えました -->
 
 
 
@@ -21,21 +21,21 @@
 
   <link crossorigin="anonymous" media="all" integrity="sha512-pWLt6abkYhNeAHaDrPVG0yXCtIGRuCkwSUqQpsyN6smAIpIt+Iuq2IZKmoH9l3Cy/9ZnjvVrFZnvFFjGiqE3EA==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-a3b8a10d4a9e37a78f033ef4a4f525f5.css" />
   <link crossorigin="anonymous" media="all" integrity="sha512-ECAanBjudv0WlHYfCowVr4moYjiVc/W4YKbONdyiUGUfOpqQbHE44OWSIqV69VKzenfq8zPQtewxS72Pq1Awdg==" rel="stylesheet" href="https://github.githubassets.com/assets/github-6aa34635057b47b21a5f5ae68b399802.css" />
-  
-  
-  
-  
-  
+
+
+
+
+
 
   <meta name="viewport" content="width=device-width">
-  
+
   <title>New File</title>
     <meta name="description" content="My first repository. Contribute to longplayer1/first_repo development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
-    
+
     <meta property="og:image" content="https://avatars2.githubusercontent.com/u/47109700?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="longplayer1/first_repo" /><meta property="og:url" content="https://github.com/longplayer1/first_repo" /><meta property="og:description" content="My first repository. Contribute to longplayer1/first_repo development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
@@ -45,7 +45,7 @@
   <meta name="request-id" content="DD55:283E:23B37D4:367BD7C:5C4F01C5" data-pjax-transient>
 
 
-  
+
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
 
@@ -66,7 +66,7 @@
 
 
 
-  
+
 
       <meta name="hostname" content="github.com">
     <meta name="user-login" content="longplayer1">
@@ -79,7 +79,7 @@
   <meta name="html-safe-nonce" content="70a897d08d7f9a37352c73b90b89986687e91a19">
 
   <meta http-equiv="x-pjax-version" content="45d2aed97fe07425eab1842d1d375b9b">
-  
+
 
       <link href="https://github.com/longplayer1/first_repo/commits/master.atom" rel="alternate" title="Recent Commits to first_repo:master" type="application/atom+xml">
 
@@ -107,18 +107,18 @@
   </head>
 
   <body class="logged-in env-production emoji-size-boost page-edit-blob">
-    
+
 
   <div class="position-relative js-header-wrapper ">
     <a href="#start-of-content" tabindex="1" class="p-3 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
     <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
 
-    
-    
-    
 
 
-        
+
+
+
+
 <header class="Header  f5" role="banner">
   <div class="d-flex flex-justify-between px-3 ">
     <div class="d-flex flex-justify-between ">
@@ -164,9 +164,9 @@
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
             <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
-              
+
 <ul class="d-none js-jump-to-suggestions-template-container">
-  
+
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
   <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
@@ -207,7 +207,7 @@
 </ul>
 
 <ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
-  
+
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
   <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
@@ -239,7 +239,7 @@
   </a>
 </li>
 
-  
+
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none" role="option">
   <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
@@ -296,7 +296,7 @@
               <li class="position-relative">
                 <a class="js-selected-navigation-item HeaderNavlink px-2" data-ga-click="Header, click, Nav menu - item:marketplace context:user" data-octo-click="marketplace_click" data-octo-dimensions="location:nav_bar" data-selected-links=" /marketplace" href="/marketplace">
                    Marketplace
-</a>                  
+</a>
               </li>
             <li>
               <a class="js-selected-navigation-item HeaderNavlink px-2" data-ga-click="Header, click, Nav menu - item:explore" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">
@@ -306,11 +306,11 @@
       </nav>
 
       <div class="d-flex">
-        
+
 <ul class="user-nav d-flex flex-items-center list-style-none" id="user-links">
   <li class="dropdown">
     <span class="d-inline-block  px-2">
-      
+
     <a aria-label="You have no unread notifications" class="notification-indicator tooltipped tooltipped-s  js-socket-channel js-notification-indicator" data-hotkey="g n" data-ga-click="Header, go to notifications, icon:read" data-channel="notification-changed:47109700" href="/notifications">
         <span class="mail-status "></span>
         <svg class="octicon octicon-bell" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 12v1H0v-1l.73-.58c.77-.77.81-2.55 1.19-4.42C2.69 3.23 6 2 6 2c0-.55.45-1 1-1s1 .45 1 1c0 0 3.39 1.23 4.16 5 .38 1.88.42 3.66 1.19 4.42l.66.58H14zm-7 4c1.11 0 2-.89 2-2H5c0 1.11.89 2 2 2z"/></svg>
@@ -327,7 +327,7 @@
         <span class="dropdown-caret mt-1"></span>
       </summary>
       <details-menu class="dropdown-menu dropdown-menu-sw">
-        
+
 <a role="menuitem" class="dropdown-item" href="/new" data-ga-click="Header, create new repository">
   New repository
 </a>
@@ -372,7 +372,7 @@
         <div role="none" class="dropdown-divider"></div>
 
         <div class="px-3 f6 user-status-container js-user-status-context pb-1" data-url="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1">
-          
+
 <div class="js-user-status-container user-status-compact" data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
     <summary class="btn-link no-underline js-toggle-user-status-edit toggle-user-status-edit width-full" aria-haspopup="dialog" role="menuitem">
@@ -501,7 +501,7 @@
         <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
         <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
         <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="V1H9E5KIdNBcBsXUYUhskY3Zv3GfQuXnDJbNqKpPQgULrrN1Dhm+wgyxccBUxUfTk40Wx1xD84khY1jKpZy8Sw==" />
-          
+
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
             Sign out
           </button>
@@ -521,7 +521,7 @@
   </div>
 </header>
 
-      
+
 
   </div>
 
@@ -536,9 +536,9 @@
   <div role="main" class="application-main " data-commit-hovercards-enabled>
         <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
     <div id="js-repo-pjax-container" data-pjax-container >
-      
 
-  
+
+
 
 
 
@@ -689,7 +689,7 @@
 </h1>
 
     </div>
-    
+
 <nav class="reponav js-repo-nav js-sidenav-container-pjax container"
      itemscope
      itemtype="http://schema.org/BreadcrumbList"
@@ -746,10 +746,10 @@
 <div class="container new-discussion-timeline experiment-repo-nav  ">
   <div class="repository-content ">
 
-    
-    
-  
-    
+
+
+
+
 
     <div class="file-box ">
       <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="d-none js-blob-preview-form" action="/longplayer1/first_repo/preview/master" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="KAxruTrx7ReU2y06et9TelZNdl3FsJPAi8rT+vQD2uh/UIrY1xLLEdvP6d1dGYPtMxtUi3LFrx3EVtK/q+jt7w==" />
@@ -761,7 +761,7 @@
 </form>
 
       <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-blob-form" data-github-confirm-unload="Your new changes will be lost." action="/longplayer1/first_repo/create/master" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="YF2GE5UMCxeSm2gOLtmLNBc/FUsuVCInBYqSQSbXHTWFIX4Nutz0mSPspg32W3A/L0oqVhUYua6sZ5ToNf8dyg==" />
-        
+
 
 
 <div class="breadcrumb ">
@@ -1531,7 +1531,7 @@
 
 <div class="file-commit-form js-file-commit-form ">
 
-  
+
     <span class="commit-form-avatar ">
       <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=47109700" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/longplayer1"><img class="float-left rounded-1" src="https://avatars2.githubusercontent.com/u/47109700?s=96&amp;v=4" width="48" height="48" alt="@longplayer1" /></a>
     </span>
@@ -1568,7 +1568,7 @@
       </div>
 
 
-      
+
 <div class="form-group mb-0" role="radiogroup" aria-label="Commit choice">
   <div class="form-checkbox pl-4 mt-0 mb-2">
     <label class="text-normal">
@@ -1638,7 +1638,7 @@
 
   </div>
 
-        
+
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
@@ -1679,14 +1679,14 @@
   </div>
 
 
-    
+
     <script crossorigin="anonymous" integrity="sha512-QvKTS0D7h5GqNGL/yQoz29FoT+DfLf42krWeA6EzQBShYgRlNC7zxnb61KaxjACA3UQW+0eHcLlndTA1kqcNSw==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-81e8817b3d5f8890d1365b24d00f6590.js"></script>
-    
+
     <script crossorigin="anonymous" async="async" integrity="sha512-98IqBDBFP/FoMsK5D9QIs93q89WwBUuin6SJPTQmX35X4o1cVZMyNdnqY86rv6GJGLsfbkmBXBO3ZIZWqireSQ==" type="application/javascript" src="https://github.githubassets.com/assets/github-5675fb0259c0a7b4b60b63e0765dda4d.js"></script>
-    
+
           <script crossorigin="anonymous" integrity="sha512-ApNKs/N7OE1gCfLYEP4N9dFZzyoDeJbN18EMgD0y6ZlZ4nyZ9b0W/YzNpUS0RPuM9cmPzoHqGDAlkGQYSbfHfQ==" type="application/javascript" src="https://github.githubassets.com/assets/editor-833057b7b68b6ff810c72fb18364efe4.js"></script>
 
-    
+
   <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner d-none">
     <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
     <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
@@ -1717,4 +1717,3 @@
 
   </body>
 </html>
-
